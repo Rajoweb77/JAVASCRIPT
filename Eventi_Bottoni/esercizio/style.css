@@ -1,0 +1,15 @@
+#quadrato {
+
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    margin-bottom: 20px;
+    transition: all 1s ease; /* transizione fluida*/
+}
+
+.rotato {
+
+    transform: rotate(180deg);
+    color: rgb(red, green, blue);    
+}
+

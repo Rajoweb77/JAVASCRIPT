@@ -1,0 +1,10 @@
+- evento su un quadrato che cambia colore al passaggio del mouse sia se ci passo sopra(hover) che se ci esco(mouseout)
+
+- mostrare un testo di un <p> con il doppioclick dblclick
+
+- tasti premuti sulla tastiera :  scatena un alert 
+                                  se clicco la freccia su e un console.log se clicco la freccia giu
+
+
+
+

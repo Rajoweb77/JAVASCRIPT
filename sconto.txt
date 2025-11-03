@@ -1,0 +1,25 @@
+//  Esercizio 2: Creare una funzione che calcola il prezzo di un prodotto 
+//               in base alla percentuale di sconto inserito dall utente
+//               chiedi all utente il prezzo del prodotto e la % di sconto
+//               i prezzi sono decimali -> parseFloat
+//               risultato.toFixed(2); 
+
+
+//chiedo prezzo prodotto
+let prezzoIniziale = parseFloat(prompt("Inserisci il prezzo del prodotto : "));
+
+//chiedo la % dello sconto
+let percentualeSconto = parseFloat(prompt("Inserisci la percentuale di sconto : "));
+
+//calcolo sconto
+function calcolaSconto(prezzo, sconto){
+
+    let prezzoScontato = prezzo - (prezzo * sconto / 100);
+
+    return prezzoScontato.toFixed(2);
+}
+
+
+let risultato = calcolaSconto(prezzoIniziale, percentualeSconto);
+
+alert("\nPrezzo iniziale : euro " + prezzoIniziale.toFixed(2) + "\n Sconto applicato : " + percentualeSconto + "%" + "\n Prezzo finale : euro " + risultato);

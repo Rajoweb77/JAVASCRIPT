@@ -1,0 +1,18 @@
+INSTANZIARE -> DICHIARARE
+INSTRUZIONE -> DICHIAZIONE DI VARIBILE CON VALORE
+
+VANILLA JS -> PRIMA VERSIONE
+ES5 / ES6 / ES7 / ES8 / ES9  -> NUOVE VERSIONI EcmaScript Javascript
+
+
+1)INPUT -> GESTIRE IL TIPO DI DATO INSERITO (parseFloat, parseInt, toLowerCase)
+2)il dato viene salvato in una variabile
+3)il risultato viene stampato con "console.log" o con "Alert"
+
+5 === "cinque" sono DIVERSI, uno è un numero, l altro una stringa""
+5 === "5"      hanno valore uguale ma sono di TIPO diverso
+5 === 5        sono uguali sia di TIPO che di VALORE
+
+
+
+
