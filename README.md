@@ -1,5 +1,5 @@
 # Utilizzo di Javascript
-## Classe Fullstack Dev
+## Esercizi vari in Javascript
 *Ottobre 2025*
 🧑‍💻
 
